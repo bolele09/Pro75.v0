@@ -1,0 +1,14 @@
+.services-faq-wrap.sd-faq {
+    margin: 0;
+}
+
+.single-slider::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #222;
+    opacity: 0;
+}

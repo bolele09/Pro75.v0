@@ -1,0 +1,70 @@
+
+---Downloaded files---
+The import files for: Home 02 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pro75.v0
+Data file = C:\xampp\htdocs\pro75.v0/wp-content/themes/netfix/sample-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\pro75.v0/wp-content/themes/netfix/sample-data/widget-settings.json
+Customizer file = C:\xampp\htdocs\pro75.v0/wp-content/themes/netfix/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Rechercher - Search - Widget already exists
+Catégories - Categories - Widget already exists
+Netfix Sidebar Posts Image - Recent Posts - Widget already exists
+Nuage d’étiquettes - Popular Tags - Widget already exists
+
+Product Sidebar : 
+
+Product Search - No Title - Widget already exists
+Product Categories - Product categories - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+Footer 1 : 
+
+HTML personnalisé - No Title - Widget already exists
+
+Footer 2 : 
+
+Menu de navigation - Categories - Widget already exists
+
+Footer 3 : 
+
+Menu de navigation - About Company - Widget already exists
+
+Footer 4 : 
+
+HTML personnalisé - No Title - Widget already exists
+
+Footer Style 2: 1 : 
+
+HTML personnalisé - No Title - Widget already exists
+
+Footer Style 2: 2 : 
+
+Menu de navigation - Categories - Widget already exists
+
+Footer Style 2: 3 : 
+
+Menu de navigation - About Company - Widget already exists
+
+Footer Style 2: 4 : 
+
+HTML personnalisé - No Title - Widget already exists
+
+Service Sidebar : 
+
+Netfix Services List - No Title - Widget already exists
+HTML personnalisé - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+

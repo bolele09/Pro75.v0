@@ -1,0 +1,86 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pro75.v0
+Data file = C:\xampp\htdocs\pro75.v0/wp-content/themes/netfix/sample-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\pro75.v0/wp-content/themes/netfix/sample-data/widget-settings.json
+Customizer file = C:\xampp\htdocs\pro75.v0/wp-content/themes/netfix/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Rechercher - Search - Imported
+Catégories - Categories - Imported
+Netfix Sidebar Posts Image - Recent Posts - Imported
+Nuage d’étiquettes - Popular Tags - Imported
+
+Product Sidebar : 
+
+Product Search - No Title - Imported
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer 1 : 
+
+HTML personnalisé - No Title - Imported
+
+Footer 2 : 
+
+Menu de navigation - Categories - Imported
+
+Footer 3 : 
+
+Menu de navigation - About Company - Imported
+
+Footer 4 : 
+
+HTML personnalisé - No Title - Imported
+
+Footer Style 2: 1 : 
+
+HTML personnalisé - No Title - Imported
+
+Footer Style 2: 2 : 
+
+Menu de navigation - Categories - Imported
+
+Footer Style 2: 3 : 
+
+Menu de navigation - About Company - Imported
+
+Footer Style 2: 4 : 
+
+HTML personnalisé - No Title - Imported
+
+Service Sidebar : 
+
+Netfix Services List - No Title - Imported
+HTML personnalisé - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+

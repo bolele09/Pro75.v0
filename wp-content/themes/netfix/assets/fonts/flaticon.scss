@@ -1,0 +1,145 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?056b86180df775b8f1f8cf795d798c95") format("truetype"),
+url("./flaticon.woff?056b86180df775b8f1f8cf795d798c95") format("woff"),
+url("./flaticon.woff2?056b86180df775b8f1f8cf795d798c95") format("woff2"),
+url("./flaticon.eot?056b86180df775b8f1f8cf795d798c95#iefix") format("embedded-opentype"),
+url("./flaticon.svg?056b86180df775b8f1f8cf795d798c95#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "shopping-cart": "\f101",
+    "search": "\f102",
+    "email": "\f103",
+    "location": "\f104",
+    "telephone-handle-silhouette": "\f105",
+    "internet-banking": "\f106",
+    "wifi-router": "\f107",
+    "sync": "\f108",
+    "satellite-dish": "\f109",
+    "tv": "\f10a",
+    "wifi-router-1": "\f10b",
+    "device": "\f10c",
+    "laptop": "\f10d",
+    "device-1": "\f10e",
+    "calendar": "\f10f",
+    "user": "\f110",
+    "folder": "\f111",
+    "play-button": "\f112",
+    "clock": "\f113",
+    "facebook": "\f114",
+    "twitter": "\f115",
+    "instagram": "\f116",
+    "linkedin": "\f117",
+    "businessman": "\f118",
+    "repair-kit": "\f119",
+    "support": "\f11a",
+    "megaphone": "\f11b",
+    "smartphone-call": "\f11c",
+    "pin": "\f11d",
+    "chat": "\f11e",
+);
+
+.flaticon-shopping-cart:before {
+    content: map-get($flaticon-map, "shopping-cart");
+}
+.flaticon-search:before {
+    content: map-get($flaticon-map, "search");
+}
+.flaticon-email:before {
+    content: map-get($flaticon-map, "email");
+}
+.flaticon-location:before {
+    content: map-get($flaticon-map, "location");
+}
+.flaticon-telephone-handle-silhouette:before {
+    content: map-get($flaticon-map, "telephone-handle-silhouette");
+}
+.flaticon-internet-banking:before {
+    content: map-get($flaticon-map, "internet-banking");
+}
+.flaticon-wifi-router:before {
+    content: map-get($flaticon-map, "wifi-router");
+}
+.flaticon-sync:before {
+    content: map-get($flaticon-map, "sync");
+}
+.flaticon-satellite-dish:before {
+    content: map-get($flaticon-map, "satellite-dish");
+}
+.flaticon-tv:before {
+    content: map-get($flaticon-map, "tv");
+}
+.flaticon-wifi-router-1:before {
+    content: map-get($flaticon-map, "wifi-router-1");
+}
+.flaticon-device:before {
+    content: map-get($flaticon-map, "device");
+}
+.flaticon-laptop:before {
+    content: map-get($flaticon-map, "laptop");
+}
+.flaticon-device-1:before {
+    content: map-get($flaticon-map, "device-1");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon-map, "calendar");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}
+.flaticon-folder:before {
+    content: map-get($flaticon-map, "folder");
+}
+.flaticon-play-button:before {
+    content: map-get($flaticon-map, "play-button");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon-map, "clock");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon-map, "twitter");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon-map, "instagram");
+}
+.flaticon-linkedin:before {
+    content: map-get($flaticon-map, "linkedin");
+}
+.flaticon-businessman:before {
+    content: map-get($flaticon-map, "businessman");
+}
+.flaticon-repair-kit:before {
+    content: map-get($flaticon-map, "repair-kit");
+}
+.flaticon-support:before {
+    content: map-get($flaticon-map, "support");
+}
+.flaticon-megaphone:before {
+    content: map-get($flaticon-map, "megaphone");
+}
+.flaticon-smartphone-call:before {
+    content: map-get($flaticon-map, "smartphone-call");
+}
+.flaticon-pin:before {
+    content: map-get($flaticon-map, "pin");
+}
+.flaticon-chat:before {
+    content: map-get($flaticon-map, "chat");
+}

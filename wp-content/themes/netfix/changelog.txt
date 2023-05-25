@@ -1,0 +1,73 @@
+<h3>Change Log</h3>
+
+<h2>16 January 2023 &amp; Version 1.1.2</h2>
+<pre>
+- 1. Fixed: Elementor Update Issue.
+</pre>
+
+<h2>08 January 2023 &amp; Version 1.1.1</h2>
+<pre>
+- 1. Update : All plugins updated.
+- 2. Update : Theme WooCommerce Files updated.
+- 3. Update : WordPress 6.x.x Compatible.
+</pre>
+
+<h2>08 October 2022 &amp; Version 1.1.0</h2>
+<pre>
+- 1. Fixed: Elementor Update Issue.
+</pre>
+
+<h2>25 August 2022 &amp; Version 1.0.9</h2>
+<pre>
+- 1. Fixed: About Widget Issue Fixed.
+</pre>
+
+<h2>25 Jun 2022 &amp; Version 1.0.8</h2>
+<pre>
+- 1. Update: Enable Cart option in mobile View.
+</pre>
+
+
+<h2>16 March 2022 &amp; Version 1.0.7</h2>
+<pre>
+- 1. Fixed: Breadcrumb issue.
+</pre>
+
+<h2>26 February 2022 &amp; Version 1.0.6</h2>
+<pre>
+- 1. Fixed: Slider Overly
+</pre>
+
+<h2>10 February 2022 &amp; Version 1.0.5</h2>
+<pre>
+- 1. Added: Mobile Menu Switch added.
+</pre>
+
+<h2>20 January 2022 &amp; Version 1.0.4</h2>
+<pre>
+- 1. Added: New Homepage added.
+- 2. Updated: Slider Settings.
+</pre>
+
+<h2>15 January 2022 &amp; Version 1.0.3</h2>
+<pre>
+- 1. Fixed: Service Details.
+- 2. Updated: Service Box.
+</pre>
+
+<h2>10 January 2022 &amp; Version 1.0.2</h2>
+<pre>
+- 1. Updated: Kirki Customizer Functionality
+- 2. Updated: OCDI files
+</pre>
+
+<h2>8 January 2022 &amp; Version 1.0.1</h2>
+<pre>
+- 1. Added: Color Settings.
+- 2. Added: RTL Settings.
+</pre>
+
+<h2>6 January 2022 &amp; Version 1.0.0</h2>
+<pre>
+- 1. Initial Released Netfix.
+</pre>
